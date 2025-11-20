@@ -1,0 +1,31 @@
+"filename", "language", "JSON", "JavaScript", "TypeScript", "Markdown", "JSON with Comments", "TypeScript JSX", "HTML", "PostCSS", "comment", "blank", "total"
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\.bolt\config.json", "JSON", 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\README_EmailJS_Setup.md", "Markdown", 0, 0, 0, 86, 0, 0, 0, 0, 0, 29, 115
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\eslint.config.js", "JavaScript", 0, 27, 0, 0, 0, 0, 0, 0, 0, 2, 29
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\index.html", "HTML", 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 15
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\package-lock.json", "JSON", 4027, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4028
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\package.json", "JSON", 35, 0, 0, 0, 0, 0, 0, 0, 0, 1, 36
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\postcss.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\App.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 27, 0, 0, 0, 2, 29
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\About.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 145, 0, 0, 7, 16, 168
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Classes.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 221, 0, 0, 1, 17, 239
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 153, 0, 0, 6, 13, 172
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Gallery.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 268, 0, 0, 10, 21, 299
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Hero.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 114, 0, 0, 9, 12, 135
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Navbar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 232, 0, 0, 18, 21, 271
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Reviews.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 111, 0, 0, 3, 7, 121
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\WhatsAppButton.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 26, 0, 0, 2, 6, 34
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\config\emailConfig.js", "JavaScript", 0, 7, 0, 0, 0, 0, 0, 0, 13, 2, 22
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\index.css", "PostCSS", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\main.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 9, 0, 0, 0, 2, 11
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\pages\Contact.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 565, 0, 0, 21, 54, 640
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\pages\Home.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 18, 0, 0, 0, 2, 20
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\pages\Teachers.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 215, 0, 0, 19, 21, 255
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\services\emailService.js", "JavaScript", 0, 108, 0, 0, 0, 0, 0, 0, 12, 15, 135
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tailwind.config.js", "JavaScript", 0, 7, 0, 0, 0, 0, 0, 0, 1, 1, 9
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tsconfig.app.json", "JSON", 20, 0, 0, 0, 0, 0, 0, 0, 2, 3, 25
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 7, 0, 0, 0, 0, 1, 8
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tsconfig.node.json", "JSON", 18, 0, 0, 0, 0, 0, 0, 0, 2, 3, 23
+"c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\vite.config.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 1, 2, 11
+"Total", "-", 4103, 155, 8, 86, 7, 2104, 15, 3, 128, 258, 6867

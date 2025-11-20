@@ -1,0 +1,68 @@
+Date : 2025-09-30 14:03:06
+Directory : c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New
+Total : 29 files,  6481 codes, 128 comments, 258 blanks, all 6867 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          5 |      4,103 |          4 |          9 |      4,116 |
+| TypeScript JSX     |         13 |      2,104 |         96 |        194 |      2,394 |
+| JavaScript         |          5 |        155 |         26 |         21 |        202 |
+| Markdown           |          1 |         86 |          0 |         29 |        115 |
+| HTML               |          1 |         15 |          0 |          0 |         15 |
+| TypeScript         |          2 |          8 |          2 |          3 |         13 |
+| JSON with Comments |          1 |          7 |          0 |          1 |          8 |
+| PostCSS            |          1 |          3 |          0 |          1 |          4 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                       | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                          |         29 |      6,481 |        128 |        258 |      6,867 |
+| . (Files)                                                                                                                  |         11 |      4,256 |          6 |         44 |      4,306 |
+| .bolt                                                                                                                      |          1 |          3 |          0 |          1 |          4 |
+| src                                                                                                                        |         17 |      2,222 |        122 |        213 |      2,557 |
+| src (Files)                                                                                                                |          4 |         39 |          1 |          6 |         46 |
+| src\components                                                                                                             |          8 |      1,270 |         56 |        113 |      1,439 |
+| src\config                                                                                                                 |          1 |          7 |         13 |          2 |         22 |
+| src\pages                                                                                                                  |          3 |        798 |         40 |         77 |        915 |
+| src\services                                                                                                               |          1 |        108 |         12 |         15 |        135 |
++----------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                                   | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\.bolt\config.json                 | JSON               |          3 |          0 |          1 |          4 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\README_EmailJS_Setup.md           | Markdown           |         86 |          0 |         29 |        115 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\eslint.config.js                  | JavaScript         |         27 |          0 |          2 |         29 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\index.html                        | HTML               |         15 |          0 |          0 |         15 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\package-lock.json                 | JSON               |      4,027 |          0 |          1 |      4,028 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\package.json                      | JSON               |         35 |          0 |          1 |         36 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\postcss.config.js                 | JavaScript         |          6 |          0 |          1 |          7 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\App.tsx                       | TypeScript JSX     |         27 |          0 |          2 |         29 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\About.tsx          | TypeScript JSX     |        145 |          7 |         16 |        168 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Classes.tsx        | TypeScript JSX     |        221 |          1 |         17 |        239 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Footer.tsx         | TypeScript JSX     |        153 |          6 |         13 |        172 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Gallery.tsx        | TypeScript JSX     |        268 |         10 |         21 |        299 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Hero.tsx           | TypeScript JSX     |        114 |          9 |         12 |        135 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Navbar.tsx         | TypeScript JSX     |        232 |         18 |         21 |        271 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\Reviews.tsx        | TypeScript JSX     |        111 |          3 |          7 |        121 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\components\WhatsAppButton.tsx | TypeScript JSX     |         26 |          2 |          6 |         34 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\config\emailConfig.js         | JavaScript         |          7 |         13 |          2 |         22 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\index.css                     | PostCSS            |          3 |          0 |          1 |          4 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\main.tsx                      | TypeScript JSX     |          9 |          0 |          2 |         11 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\pages\Contact.tsx             | TypeScript JSX     |        565 |         21 |         54 |        640 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\pages\Home.tsx                | TypeScript JSX     |         18 |          0 |          2 |         20 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\pages\Teachers.tsx            | TypeScript JSX     |        215 |         19 |         21 |        255 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\services\emailService.js      | JavaScript         |        108 |         12 |         15 |        135 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\src\vite-env.d.ts                 | TypeScript         |          0 |          1 |          1 |          2 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tailwind.config.js                | JavaScript         |          7 |          1 |          1 |          9 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tsconfig.app.json                 | JSON               |         20 |          2 |          3 |         25 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tsconfig.json                     | JSON with Comments |          7 |          0 |          1 |          8 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\tsconfig.node.json                | JSON               |         18 |          2 |          3 |         23 |
+| c:\Users\princ\Downloads\project-bolt-sb1-5suchmvh\Alive Music Accademy project Bolt New\vite.config.ts                    | TypeScript         |          8 |          1 |          2 |         11 |
+| Total                                                                                                                      |                    |      6,481 |        128 |        258 |      6,867 |
++----------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
