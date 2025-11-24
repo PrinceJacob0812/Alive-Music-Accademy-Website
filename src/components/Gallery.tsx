@@ -341,8 +341,8 @@ const Gallery = () => {
                         </div>
                     </div>
                 )}
-        </div> 
-      </section> // <--- The main section closes
-    ); // ⬅️ The missing parenthesis that closes the return statement
-}; // ⬅️ The component function closes
+        </div>
+      </section> 
+    ); 
+}; 
 export default Gallery;
