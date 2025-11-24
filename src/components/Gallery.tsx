@@ -342,7 +342,7 @@ const Gallery = () => {
                     </div>
                 )}
         </div>
-      </section> // ⬅️ Final closing tag of the <section> element
-    ); // ⬅️ Closes the main return( ) statement
-}; // ⬅️ Closes the const Gallery = () => { } function
-export default Gallery; // ⬅️ Exports the component
+        </section> // ⬅️ Final closing tag of the <section> element
+   ); 
+    }; // This closes the 'const Gallery = () =>' function (Line 347)
+    export default Gallery;
