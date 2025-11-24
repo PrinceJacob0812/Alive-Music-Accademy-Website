@@ -342,7 +342,7 @@ const Gallery = () => {
                     </div>
                 )}
         </div>
-      </section> 
-    ); 
-}; 
-export default Gallery;
+      </section>
+    ); // ⬅️ The missing parenthesis that closes the return statement
+}; // ⬅️ The component function closes
+export default Gallery; // ⬅️ The component is exported
