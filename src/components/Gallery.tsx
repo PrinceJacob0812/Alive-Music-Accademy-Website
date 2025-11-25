@@ -2,46 +2,46 @@ import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight, Play, Users, Music, Award, Images, X } from 'lucide-react';
 
 // --- IMPORTED ASSETS (Keeping your structure) ---
-import imgVeena11 from '../assets/gallery/11.jpg';
-import imgVeena12 from '../assets/gallery/12.jpg';
-import imgVeena16 from '../assets/gallery/16.jpg';
-import imgVeena23 from '../assets/gallery/23.jpg';
-import imgVeena40 from '../assets/gallery/40.jpg';
+import imgVeena11 from '../assets/gallery_v2/11.jpg';
+import imgVeena12 from '../assets/gallery_v2/12.jpg';
+import imgVeena16 from '../assets/gallery_v2/16.jpg';
+import imgVeena23 from '../assets/gallery_v2/23.jpg';
+import imgVeena40 from '../assets/gallery_v2/40.jpg';
 
-import imgKeyboard1 from '../assets/gallery/1.jpg';
-import imgKeyboard15 from '../assets/gallery/15.jpg'; 
-import imgKeyboard41 from '../assets/gallery/41.jpg';
+import imgKeyboard1 from '../assets/gallery_v2/1.jpg';
+import imgKeyboard15 from '../assets/gallery_v2/15.jpg'; 
+import imgKeyboard41 from '../assets/gallery_v2/41.jpg';
 
-import imgVocal21 from '../assets/gallery/21.jpg';
-import imgVocal3 from '../assets/gallery/3.jpg';
-import imgVocal6 from '../assets/gallery/6.jpg';
-import imgVocal29 from '../assets/gallery/29.jpg';
+import imgVocal21 from '../assets/gallery_v2/21.jpg';
+import imgVocal3 from '../assets/gallery_v2/3.jpg';
+import imgVocal6 from '../assets/gallery_v2/6.jpg';
+import imgVocal29 from '../assets/gallery_v2/29.jpg';
 
-import imgMaster24 from '../assets/gallery/24.jpg';
-import imgMaster38 from '../assets/gallery/38.jpg';
-import imgMaster28 from '../assets/gallery/28.jpg';
-import imgMaster8 from '../assets/gallery/8.jpg';
-import imgMaster30 from '../assets/gallery/30.jpg';
+import imgMaster24 from '../assets/gallery_v2/24.jpg';
+import imgMaster38 from '../assets/gallery_v2/38.jpg';
+import imgMaster28 from '../assets/gallery_v2/28.jpg';
+import imgMaster8 from '../assets/gallery_v2/8.jpg';
+import imgMaster30 from '../assets/gallery_v2/30.jpg';
 
-import imgMemory25 from '../assets/gallery/25.jpg';
-import imgMemory17 from '../assets/gallery/17.jpg';
-import imgMemory13 from '../assets/gallery/13.jpg';
-import imgMemory31 from '../assets/gallery/31.jpg';
-import imgMemory35 from '../assets/gallery/35.jpg';
-import imgMemory5 from '../assets/gallery/5.jpg';
-import imgMemory37 from '../assets/gallery/37.jpg';
-import imgMemory2 from '../assets/gallery/2.jpg';
-import imgMemory27 from '../assets/gallery/27.jpg';
-import imgMemory26 from '../assets/gallery/26.jpg';
+import imgMemory25 from '../assets/gallery_v2/25.jpg';
+import imgMemory17 from '../assets/gallery_v2/17.jpg';
+import imgMemory13 from '../assets/gallery_v2/13.jpg';
+import imgMemory31 from '../assets/gallery_v2/31.jpg';
+import imgMemory35 from '../assets/gallery_v2/35.jpg';
+import imgMemory5 from '../assets/gallery_v2/5.jpg';
+import imgMemory37 from '../assets/gallery_v2/37.jpg';
+import imgMemory2 from '../assets/gallery_v2/2.jpg';
+import imgMemory27 from '../assets/gallery_v2/27.jpg';
+import imgMemory26 from '../assets/gallery_v2/26.jpg';
 
-import imgAchievement10 from '../assets/gallery/10.jpg';
-import imgAchievement36 from '../assets/gallery/36.jpg';
-import imgAchievement14 from '../assets/gallery/14.jpg';
-import imgAchievement19 from '../assets/gallery/19.jpg';
-import imgAchievement20 from '../assets/gallery/20.jpg';
-import imgAchievement39 from '../assets/gallery/39.jpg';
-import imgAchievement33 from '../assets/gallery/33.jpg';
-import imgAchievement34 from '../assets/gallery/34.jpg';
+import imgAchievement10 from '../assets/gallery_v2/10.jpg';
+import imgAchievement36 from '../assets/gallery_v2/36.jpg';
+import imgAchievement14 from '../assets/gallery_v2/14.jpg';
+import imgAchievement19 from '../assets/gallery_v2/19.jpg';
+import imgAchievement20 from '../assets/gallery_v2/20.jpg';
+import imgAchievement39 from '../assets/gallery_v2/39.jpg';
+import imgAchievement33 from '../assets/gallery_v2/33.jpg';
+import imgAchievement34 from '../assets/gallery_v2/34.jpg';
 // --- END IMPORTS ---
 
 // Define a type for the image objects
