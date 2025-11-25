@@ -10,7 +10,7 @@ import imgVeena40 from '../assets/gallery/40.jpg';
 
 import imgKeyboard1 from '../assets/gallery/1.jpg';
 import imgKeyboard15 from '../assets/gallery/15.jpg';
-import imgKeyboard22 from '../assets/gallery/22.jpg';
+import imgKeyboard22 from '../assets/gallery/22.JPG'; 
 import imgKeyboard41 from '../assets/gallery/41.jpg';
 
 import imgVocal21 from '../assets/gallery/21.jpg';
