@@ -9,8 +9,7 @@ import imgVeena23 from '../assets/gallery/23.jpg';
 import imgVeena40 from '../assets/gallery/40.jpg';
 
 import imgKeyboard1 from '../assets/gallery/1.jpg';
-import imgKeyboard15 from '../assets/gallery/15.jpg';
-import imgKeyboard22 from '../assets/gallery/22.JPG'; 
+import imgKeyboard15 from '../assets/gallery/15.jpg'; 
 import imgKeyboard41 from '../assets/gallery/41.jpg';
 
 import imgVocal21 from '../assets/gallery/21.jpg';
@@ -70,7 +69,7 @@ const Gallery = () => {
         },
         {
             id: 2,
-            images: [imgKeyboard15, imgKeyboard41, imgKeyboard22, imgKeyboard1],
+            images: [imgKeyboard15, imgKeyboard41, imgKeyboard1],
             alt: 'Keyboard and piano lessons at the academy',
             category: 'Keyboard Classes',
             title: 'Modern Keyboard Training',
