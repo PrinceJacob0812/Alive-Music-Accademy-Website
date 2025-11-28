@@ -3,6 +3,7 @@ import { FaTrophy } from "react-icons/fa";
 import { FaUsers } from "react-icons/fa";
 import { FaAward } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";
+import about2Image from '../assets/about (2).jpg';
 const About = () => {
   return (
     <section id="about" className="py-20 bg-gradient-to-b from-white to-orange-50">
@@ -56,11 +57,9 @@ const About = () => {
           
           <div className="relative">
             <div className="rounded-2xl overflow-hidden shadow-2xl transform rotate-2 hover:rotate-0 transition-transform duration-300">
-              <img 
-                src="/src/assets/about (2).jpg" 
-                alt="Abraham Sir teaching keyboard" 
-                className="w-full h-full object-cover"
-              />
+              <img src={about2Image} 
+              alt="15 years of teaching" 
+              className="w-full h-full object-cover" />
             </div>
             
             {/* Floating Stats Card */}
