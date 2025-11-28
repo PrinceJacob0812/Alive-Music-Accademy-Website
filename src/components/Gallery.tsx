@@ -12,7 +12,7 @@ import imgKeyboard1 from '../assets/gallery_v2/1.jpg';
 import imgKeyboard15 from '../assets/gallery_v2/15.jpg'; 
 import imgKeyboard41 from '../assets/gallery_v2/41.jpg';
 
-import imgVocal21 from '../assets/gallery_v2/21.jpg';
+import imgVocal21 from '../assets/gallery_v2/21.Jpg';
 import imgVocal3 from '../assets/gallery_v2/3.jpg';
 import imgVocal6 from '../assets/gallery_v2/6.jpg';
 import imgVocal29 from '../assets/gallery_v2/29.jpg';
@@ -20,12 +20,12 @@ import imgVocal29 from '../assets/gallery_v2/29.jpg';
 import imgMaster24 from '../assets/gallery_v2/24.jpg';
 import imgMaster38 from '../assets/gallery_v2/38.jpg';
 import imgMaster28 from '../assets/gallery_v2/28.jpg';
-import imgMaster8 from '../assets/gallery_v2/8.jpg';
+import imgMaster8 from '../assets/gallery_v2/8.JPG';
 import imgMaster30 from '../assets/gallery_v2/30.jpg';
 
 import imgMemory25 from '../assets/gallery_v2/25.jpg';
 import imgMemory17 from '../assets/gallery_v2/17.jpg';
-import imgMemory13 from '../assets/gallery_v2/13.jpg';
+import imgMemory13 from '../assets/gallery_v2/13.Jpg';
 import imgMemory31 from '../assets/gallery_v2/31.jpg';
 import imgMemory35 from '../assets/gallery_v2/35.jpg';
 import imgMemory5 from '../assets/gallery_v2/5.jpg';
