@@ -12,7 +12,6 @@ import imgKeyboard1 from '../assets/gallery/1.jpg';
 import imgKeyboard15 from '../assets/gallery/15.jpg'; 
 import imgKeyboard41 from '../assets/gallery/41.jpg';
 
-import imgVocal21 from '../assets/gallery/21.Jpg';
 import imgVocal3 from '../assets/gallery/3.jpg';
 import imgVocal6 from '../assets/gallery/6.jpg';
 import imgVocal29 from '../assets/gallery/29.jpg';
@@ -20,12 +19,10 @@ import imgVocal29 from '../assets/gallery/29.jpg';
 import imgMaster24 from '../assets/gallery/24.jpg';
 import imgMaster38 from '../assets/gallery/38.jpg';
 import imgMaster28 from '../assets/gallery/28.jpg';
-import imgMaster8 from '../assets/gallery/8.JPG';
 import imgMaster30 from '../assets/gallery/30.jpg';
 
 import imgMemory25 from '../assets/gallery/25.jpg';
 import imgMemory17 from '../assets/gallery/17.jpg';
-import imgMemory13 from '../assets/gallery/13.Jpg';
 import imgMemory31 from '../assets/gallery/31.jpg';
 import imgMemory35 from '../assets/gallery/35.jpg';
 import imgMemory5 from '../assets/gallery/5.jpg';
@@ -77,7 +74,7 @@ const Gallery = () => {
         },
         {
             id: 3,
-            images: [imgVocal21, imgVocal29, imgVocal3, imgVocal6],
+            images: [ imgVocal29, imgVocal3, imgVocal6],
             alt: 'Vocal training and singing lessons',
             category: 'Vocal Training',
             title: 'Carnatic Vocal Excellence',
@@ -85,7 +82,7 @@ const Gallery = () => {
         },
         {
             id: 4,
-            images: [imgMaster24, imgMaster28, imgMaster30, imgMaster38, imgMaster8],
+            images: [imgMaster24, imgMaster28, imgMaster30, imgMaster38],
             alt: 'Master at Work',
             category: 'Teachings',
             title: 'Moments of Mastery',
@@ -93,7 +90,7 @@ const Gallery = () => {
         },
         {
             id: 5,
-            images: [imgMemory25, imgMemory17, imgMemory2, imgMemory25, imgMemory13, imgMemory27, imgMemory26, imgMemory31, imgMemory35, imgMemory37, imgMemory5],
+            images: [imgMemory25, imgMemory17, imgMemory2, imgMemory25, imgMemory27, imgMemory26, imgMemory31, imgMemory35, imgMemory37, imgMemory5],
             alt: 'Academy Chronicles',
             category: 'Musical Journey',
             title: 'Our Shared Memories',
