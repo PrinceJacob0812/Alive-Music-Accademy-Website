@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Phone, Mail, MapPin, Facebook, Twitter, Instagram, Youtube, Heart, Clock } from 'lucide-react';
+import academyLogo from '../assets/logo.jpg';
 
 const Footer = () => {
   return (
@@ -18,11 +19,12 @@ const Footer = () => {
           <div className="col-span-1 lg:col-span-2">
             <div className="flex items-center space-x-3 mb-6">
               <div className="relative">
-                <img 
-                  src="/src/assets/logo.jpg" 
-                  alt="Alive Music Academy Logo" 
-                  className="h-12 w-auto"
-                />
+                
+                <img src={academyLogo} 
+                alt="Alive Music Academy Logo" 
+                className="h-12 w-auto" 
+                /> 
+                  
                 <div className="absolute inset-0 bg-gradient-to-r from-orange-400/20 to-purple-400/20 rounded-full blur-lg"></div>
               </div>
               <div>

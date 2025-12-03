@@ -24,8 +24,6 @@ function App() {
             <Route path="/paymentpage" element={<Paymentpage />} />
           </Routes>
         </main>
-        <main className='flex-grow'></main>
-        <main className="flex-grow"></main>
         <Footer />
         <WhatsAppButton />
         <InstagramButton />
