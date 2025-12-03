@@ -4,6 +4,7 @@ import { FaUsers } from "react-icons/fa";
 import { FaAward } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";
 import about2Image from '../assets/about (2).jpg';
+import iconLogo from '../assets/logo.jpg';
 const About = () => {
   return (
     <section id="about" className="py-20 bg-gradient-to-b from-white to-orange-50">
@@ -66,7 +67,7 @@ const About = () => {
             <div className="absolute -bottom-8 -left-8 bg-gradient-to-r from-orange-500 to-red-500 p-8 rounded-2xl shadow-2xl text-white">
               <div className="flex items-center">
                 <img 
-                  src="/src/assets/logo.jpg" 
+                  src={iconLogo} 
                   alt="Alive Music Academy Logo" 
                   className="h-12 w-12 object-contain bg-white rounded-full p-1"
                 />
