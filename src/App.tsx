@@ -14,7 +14,7 @@ import Paymentpage from './pages/paymentpage';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-white flex flex-col pt-20 max-w-full overflow-x-hidden">
+      <div className="min-h-screen bg-white flex flex-col pt-20 w-full overflow-x-hidden">
         <Navbar />
         <main className="flex-grow">
           <Routes>
