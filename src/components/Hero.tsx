@@ -4,7 +4,7 @@ import { Play, Star, Users, MapPin } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section className="relative bg-gradient-to-br from-orange-900 via-red-900 to-purple-900 text-white overflow-hidden -mt-20 pt-20">
+    <section className="relative w-full min-w-0 bg-gradient-to-br from-orange-900 via-red-900 to-purple-900 text-white overflow-hidden -mt-20 pt-20">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-10">
         <div className="absolute inset-0" style={{
