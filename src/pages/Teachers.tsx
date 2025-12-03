@@ -1,5 +1,7 @@
 import React from 'react';
 import { Music, Award, Users, Clock, MapPin, Star, Phone, Mail, Link } from 'lucide-react'; 
+// Assuming Master.jpg is inside src/assets
+import masterImage from '../assets/Master.jpg';
 
 const Teachers = () => {
     const teacher = {
@@ -7,7 +9,7 @@ const Teachers = () => {
         name: 'Isai Kalaimani Abraham Sir',
         title: 'Founder & Master Teacher',
         // Assuming asset path is correct for Master.jpg
-        image: '/src/assets/Master.jpg', 
+        image: masterImage, 
         bio: 'Isai Kalaimani Abraham Sir, founder of Alive Music Academy, is an accomplished musician with over 6 years of professional teaching experience, and more than 8 years of expertise in Veena instruction. Known for his patience, passion, and personalized teaching style, Abraham Sir has mentored hundreds of students—many now active in orchestras, television performances, and cultural stages across South India.',
         teachingPhilosophy: 'He teaches with a rare blend of South Indian classical discipline and friendly modern methods, adapting lessons based on individual student goals. Fluent in Tamil, his sessions are accessible, comfortable, and rooted in deep musical understanding.',
         specialties: ['Veena', 'Violin', 'Keyboard', 'Guitar', 'Carnatic Music', 'Devotional Music', 'Gospel Music', 'Western Instrumental Training'],
