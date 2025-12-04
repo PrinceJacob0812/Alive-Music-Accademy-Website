@@ -23,7 +23,7 @@ const Hero = () => {
       
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-32">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          <div className="max-w-2xl">
+          <div className="w-full md:max-w-2xl">
             {/* Badge */}
             <div className="inline-flex items-center px-4 py-2 bg-orange-500/20 backdrop-blur-sm rounded-full text-orange-200 text-sm font-medium mb-6 border border-orange-400/30">
               <Star className="h-4 w-4 mr-2 text-orange-300" />
