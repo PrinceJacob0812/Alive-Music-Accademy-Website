@@ -7,7 +7,7 @@ import about2Image from '../assets/about (2).jpg';
 import iconLogo from '../assets/logo.jpg';
 const About = () => {
   return (
-    <section id="about" className="py-20 bg-gradient-to-b from-white to-orange-50">
+  <section id="about" className="py-20 bg-gradient-to-b from-white to-orange-50 w-full overflow-x-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Our Story */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-20">
