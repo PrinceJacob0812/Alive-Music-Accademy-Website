@@ -9,6 +9,7 @@ import Home from './pages/Home';
 import Teachers from './pages/Teachers';
 import Contact from './pages/Contact';
 import Paymentpage from './pages/paymentpage';
+import Fees from './pages/Fees';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
             <Route path="/teachers" element={<Teachers />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/paymentpage" element={<Paymentpage />} />
+            <Route path="/fees" element={<Fees />} />
           </Routes>
         </main>
         <Footer />
