@@ -25,6 +25,7 @@ const Navbar = () => {
         { name: 'Teachers', href: '/teachers', type: 'page' },
         { name: 'Contact', href: '/contact', type: 'page' },
         { name: 'Payment', href: '/paymentpage', type: 'page' },
+        { name: 'Fees Details', href: '/fees', type: 'page' },
     ];
 
     // --- 2. HELPER FUNCTIONS ---
