@@ -53,9 +53,6 @@ const Fees = () => {
 
   const selectedFee = fees[level][frequency][duration];
   const classesPerMonth = frequency * 4;
-  const hoursPerMonth = classesPerMonth * (duration / 60);
-
-
   const levelRows = useMemo(
     () =>
       ([45, 60] as Duration[]).flatMap((durationOption) =>
@@ -203,11 +200,6 @@ const Fees = () => {
           </aside>
         </div>
 
-        {showFullTable && (
-          <div className="fixed inset-0 z-[60] flex items-center justify-center bg-black/50 p-4" onClick={() => setShowFullTable(false)}>
-            <div className="hidden" aria-hidden="true"><X /></div>
-          </div>
-        )}
       </div>
     </section>
   );
