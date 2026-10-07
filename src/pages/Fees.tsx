@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { Calculator, CheckCircle2, Clock3, MapPin, X } from 'lucide-react';
+import { Calculator, CheckCircle2, Clock3, MapPin } from 'lucide-react';
 
 type Level = 'Beginner' | 'Intermediate' | 'Advanced';
 type Frequency = 1 | 2;
@@ -54,7 +54,7 @@ const Fees = () => {
   const selectedFee = fees[level][frequency][duration];
   const classesPerMonth = frequency * 4;
   const hoursPerMonth = classesPerMonth * (duration / 60);
-  const effectiveHourlyFee = Math.round(selectedFee / hoursPerMonth);
+
 
   const levelRows = useMemo(
     () =>
@@ -137,10 +137,6 @@ const Fees = () => {
                   <p className="text-sm font-medium text-orange-100">Monthly fee</p>
                   <p className="text-4xl font-extrabold mt-1">{formatCurrency(selectedFee)}</p>
                 </div>
-                <div className="sm:text-right">
-                  <p className="text-sm text-orange-100">Effective fee / hour</p>
-                  <p className="text-2xl font-bold">{formatCurrency(effectiveHourlyFee)}</p>
-                </div>
               </div>
             </div>
 
@@ -157,8 +153,8 @@ const Fees = () => {
               </div>
               <div className="rounded-xl bg-gray-50 p-4">
                 <Calculator className="h-5 w-5 text-orange-500 mb-2" />
-                <p className="text-xs text-gray-500">Learning hours / month</p>
-                <p className="font-semibold text-gray-900">{hoursPerMonth} hours</p>
+                <p className="text-xs text-gray-500">Monthly fee</p>
+                <p className="font-semibold text-gray-900">{formatCurrency(selectedFee)}</p>
               </div>
             </div>
 
@@ -200,7 +196,6 @@ const Fees = () => {
               <div className="flex justify-between gap-4"><dt className="text-gray-400">Frequency</dt><dd className="font-medium text-right">{frequency} class{frequency > 1 ? 'es' : ''}/week</dd></div>
               <div className="flex justify-between gap-4"><dt className="text-gray-400">Duration</dt><dd className="font-medium text-right">{duration === 60 ? '1 hour' : '45 minutes'}</dd></div>
               <div className="flex justify-between gap-4"><dt className="text-gray-400">Monthly fee</dt><dd className="font-bold text-orange-400">{formatCurrency(selectedFee)}</dd></div>
-              <div className="flex justify-between gap-4"><dt className="text-gray-400">Effective hourly fee</dt><dd className="font-bold">{formatCurrency(effectiveHourlyFee)}</dd></div>
             </dl>
             <div className="mt-7 rounded-xl bg-white/10 p-4 text-sm text-gray-300">
               <strong className="text-white">Note:</strong> State selection does not change the fee. It is requested only for student verification and registration purposes.
