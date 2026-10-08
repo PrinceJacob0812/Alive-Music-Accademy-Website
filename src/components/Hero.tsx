@@ -67,7 +67,7 @@ const Hero = () => {
                 Explore Classes
               </a>
               <Link 
-                to="/teachers" 
+                to="/join" 
                 className="px-8 py-4 bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/20 rounded-xl font-semibold text-lg transition-all duration-300 transform hover:scale-105"
               >
                 Join Now
